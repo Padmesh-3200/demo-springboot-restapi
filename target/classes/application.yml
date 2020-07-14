@@ -1,0 +1,8 @@
+server:
+ port: 9091
+ servlet:
+  context-path: /myApp
+ 
+ 
+ #server.servlet.context-path: /myApp
+ #server.port=9090
